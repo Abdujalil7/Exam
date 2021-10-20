@@ -1,38 +1,10 @@
 # Tez Yozish O'yini
-
-
  
-
-<img src="https://ibb.co/NWGSG12"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
+<a href="https://ibb.co/NWGSG12"><img src="https://i.ibb.co/ssXHX59/photo-2021-10-20-13-55-13.jpg" alt="photo-2021-10-20-13-55-13" style="float: left; margin-right: 10px;" width="200" border="0"></a>
      
      
-<b>The main page is where the game is played. you first select an option for yourself and press the play button so that the computer will randomly show you its option and whoever swallows it will be written down in the score section below.</b>
+<b>Bu o'yinda siz berilgan matnni tez yozishga harakat qilishingiz kerak, agarda matn to'gri bo'lsa Enter tugmasini bo'sishingiz bilan sizning ekraningizda yangi matn paydo bo'ladi. Ekranning pastki qismida siz necha marotaba no'togri urunish qilganingini ko'rishingi mumkin.</b>
+
+<b>Programmaning Enter tugmasining pastida "Second Page " tugmasini bosib, siz yangi pagega otib Inglizcha hangomalarni o'qishingiz mumkin va asosiy qulaylik shundaki  siz ko'zingiz ko'rish qobilyaiga qarab matnni katta yoki kichkina qila olasiz hamda katta yoki kichkina tugmasini bosish orqali yangi hangoma oqishingiz mumkin</b>
      
-     
-
-<img src="https://github.com/jasurovich/Game/blob/main/assets/images/Screenshot_1634652411.png"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
-     
-     
-<b>This page will show the winner. Depending on the number of games you entered at the beginning, when the number of attempts is over, whoever has the biggest score will be displayed on the screen as the winner.</b>
-
-     
-<img src="https://github.com/jasurovich/Game/blob/main/assets/images/Screenshot_1634652422.png"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" /> 
-     
-
-     
-<b>The last page is displayed on the fakescoreboard using the jsonplaceholder.</b>
-
-
-<img src="https://github.com/jasurovich/Game/blob/main/assets/images/Screenshot_1634652427.png"
-     alt="Onboarding page"
-     style="float: left; margin-right: 10px;" width="200" />
-
-
-<a href="https://github.com/jasurovich/Game/blob/main/app-arm64-v8a-release.apk">You can Download here</a>
-
+<a href="https://ibb.co/D57Xj2R"><img src="https://i.ibb.co/XSzBGRC/photo-2021-10-20-13-55-11.jpg" alt="photo-2021-10-20-13-55-11" style="float: left; margin-right: 10px;" width="200" border="0"></a>
